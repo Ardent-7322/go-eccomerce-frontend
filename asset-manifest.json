@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/go-eccomerce-frontend/static/css/main.3c6075d8.css",
-    "main.js": "/go-eccomerce-frontend/static/js/main.fe9e9132.js",
+    "main.js": "/go-eccomerce-frontend/static/js/main.8e08288e.js",
     "static/js/488.da00ba12.chunk.js": "/go-eccomerce-frontend/static/js/488.da00ba12.chunk.js",
     "static/media/place_holder.jpg": "/go-eccomerce-frontend/static/media/place_holder.cfc1f8d57c861b8a813f.jpg",
     "static/media/banner.png": "/go-eccomerce-frontend/static/media/banner.9e3accdffa79706e3219.png",
@@ -15,11 +15,11 @@
     "static/media/search_icon.svg": "/go-eccomerce-frontend/static/media/search_icon.2c8be9df1018874efe4b6a1a49ad8a5a.svg",
     "static/media/file_upload.svg": "/go-eccomerce-frontend/static/media/file_upload.b52159a8473ca1d8c07b16edb7739c8b.svg",
     "main.3c6075d8.css.map": "/go-eccomerce-frontend/static/css/main.3c6075d8.css.map",
-    "main.fe9e9132.js.map": "/go-eccomerce-frontend/static/js/main.fe9e9132.js.map",
+    "main.8e08288e.js.map": "/go-eccomerce-frontend/static/js/main.8e08288e.js.map",
     "488.da00ba12.chunk.js.map": "/go-eccomerce-frontend/static/js/488.da00ba12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c6075d8.css",
-    "static/js/main.fe9e9132.js"
+    "static/js/main.8e08288e.js"
   ]
 }
